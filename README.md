@@ -3,7 +3,7 @@
 ## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs520.ta@prosys.kaist.ac.kr)
-  - 
+  - tba
 - 강의 시간 (Time): 월/수 Mon/Wed 09:00 - 10:15
 - 면담 시간 (Office hours) (사전 약속 필요 by appointment):
   - 교수 Instructor: Mon 10:15 - 11:00
