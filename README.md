@@ -11,6 +11,7 @@
 - 강의실 Location: N1 102
 
 ## 강의 소개 Course Description 
+> 한 쪽을 보면 다른 한 쪽도 보이는 신기한 거울 속 평행 세계 이야기
 
 본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
