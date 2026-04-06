@@ -171,3 +171,4 @@ A large part of the slides is based on the lecture notes of similar courses:
 #### 그 외 Etc
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](https://prosys.kaist.ac.kr/recursion)
+- [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
