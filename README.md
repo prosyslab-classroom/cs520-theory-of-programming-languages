@@ -28,7 +28,7 @@
 ## 교재 Textbook
 - 강의자료가 제공됩니다. Lecture slides will be provided.
 - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) (TAPL)
-- [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
+- [Proofs and Types](https://www.paultaylor.eu/stable/prot.pdf) (PAT)
 
 ## 몰입을 위한 약속 Promises for Engagement
 모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 타블릿, 핸드폰)는 책상위에 올려놓지 않기로 합시다.
@@ -123,52 +123,10 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
 ## 관련 강의 Related & Advanced Course
-- [CS402: 전산논리학 개론 (Introduction to Logic for Computer Science)](https://github.com/hongseok-yang/logic23), KAIST
+- [CS424: 프로그램 논증 (Program Reasoning)](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
 - [CS524: 프로그램 분석 (Program Analysis)](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
-
-## 감사 Acknowledgement
-이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
-
-A large part of the slides is based on the lecture notes of similar courses:
-- [CS389: Automated Logical Reasoning](https://www.cs.utexas.edu/~isil/cs389L/), Univ. of Texas at Austin
-- AAA528: Computational Logic, Korea Univ.
-- [CSE291: Program Synthesis](https://github.com/nadia-polikarpova/cse291-program-synthesis), UCSD
-- [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
 
 ## 참고 References
 #### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
-- [괴델, 에셔, 바흐 (Gödel, Escher, Bach)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=113285054)
-- [불가능에 대하여 (Imagine the Impossible)](https://www.youtube.com/watch?v=nJiw4g2ZM1E)
-
-#### 프로그램 검증 Program Verification
-- [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
-- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
-- [Machine-assisted Proof](https://youtu.be/AayZuuDDKP0?si=H2Pl-Y-K3oysfA8W)
-- [Translation Validation](https://github.com/prosyslab/pl-wiki/wiki/번역-검산(Translation-Validation))
-
-#### 프로그램 분석 Program Analysis
-- [Infer](https://fbinfer.com)
-- [CodeQL](https://codeql.github.com)
-- [Lessons from Building Static Analysis Tools at Google](https://dl.acm.org/doi/10.1145/3188720), CACM 2018
-- [Scaling Static Analysis at Facebook](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), CACM 2019
-- [Detect Bugs Early with the Static Analyzer](https://developer.apple.com/videos/play/wwdc2021/10202/), Apple WWDC 2021
-
-#### 프로그램 합성 Program Synthesis
-- [Search-based Program Synthesis](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext), CACM 2018
-- [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/). Wired 2021
-- [Coding Made AI—Now, How Will AI Unmake Coding?](https://spectrum.ieee.org/ai-code-generation-language-models), IEEE Spectrum 2022
-- [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
-- [Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions](https://cacm.acm.org/research-highlights/asleep-at-the-keyboard-assessing-the-security-of-github-copilots-code-contributions/), CACM 2025
-
-
-#### 논리와 직관을 모두 갖춘 종합 인공지능 Artificial General Intelligence
-- [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
-- [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
-- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
-- [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
-
-#### 그 외 Etc
-- [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
-- [Recursion World](https://prosys.kaist.ac.kr/recursion)
 - [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
