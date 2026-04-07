@@ -99,28 +99,15 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
-|1|[Introduction](slides/lecture1.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)|||
-|2|[Operational Semantics](slides/lecture2.pdf)||<img src="icons/github-classroom.png" width="16" />HW1: SmaLLVM Interpreter|
-|3|[Concepts in Program Verification](slides/lecture3.pdf)|||
-|4|[Propositional Logic](slides/lecture4.pdf)|COC Ch1, <img src="icons/youtube.png" width="16" /> [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)|
-|5|[First-order Logic](slides/lecture5.pdf)|COC Ch2|
-|6|[First-order Theory](slides/lecture6.pdf)|COC Ch3|<img src="icons/github-classroom.png" width="16" />HW2: Automated Theorem Proving|
-|7|[Hoare Logic](slides/lecture7.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|<img src="icons/github-classroom.png" width="16" />HW3: Verification-aware Programming|
-|8|[Automated Program Verification](slides/lecture8.pdf)||<img src="icons/github-classroom.png" width="16" />HW4: SmaLLVM Verifier|
-|9|[Overview of Program Synthesis](slides/lecture9.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models), [CACM](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext)||
-|10|[Inductive Synthesis and Enumerative Search](slides/lecture10.pdf)|PS Ch4.1, IPS Lec2-4|<img src="icons/github-classroom.png" width="16" />HW5: LIA Synthesizer|
-|11|[Search Space Pruning](slides/lecture11.pdf)|||
-|12|[Search Space Prioritization](slides/lecture12.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
-|13|[Representation-based Search](slides/lecture13.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: SLIA Synthesizer|
-|14|[Constraint-based Search](slides/lecture14.pdf)|||
-|15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW7: CEGIS|
-|16|[Neuro-Symbolic AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: AI-based Program Synthesis|
+|1|[Introduction](slides/lecture1.pdf)|||
+|2|[Lambda Calculus](slides/lecture2.pdf)|||
+|3|Simply Typed Lambda Calculus|||
+|4|Natural Deduction|||
+|5|The Curry-Howard Isomorphism|||
+|6|Polymorphic Lambda Calculus|||
+|7|Recursive Type|||
+|8|Dependent Type|||
 |-|Final Exam|||
-
-## 명예의 전당 Hall of Fame
-지난 학기 수강생들이 [남긴](https://prosys.kaist.ac.kr/what-is-left/) 멋진 작품을 [여기서](hof.md) 감상해 보세요 (에세이, 그림 등).
-
-Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
 ## 관련 강의 Related & Advanced Course
 - [CS424: 프로그램 논증 (Program Reasoning)](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
