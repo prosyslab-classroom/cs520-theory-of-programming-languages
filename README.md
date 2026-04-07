@@ -117,3 +117,6 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 #### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
+
+#### Lean
+- [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
