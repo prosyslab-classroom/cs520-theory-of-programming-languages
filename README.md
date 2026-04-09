@@ -105,8 +105,9 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |4|Natural Deduction|||
 |5|The Curry-Howard Isomorphism|||
 |6|Polymorphic Lambda Calculus|||
-|7|Recursive Type|||
-|8|Dependent Type|||
+|7|Inductive Type|||
+|8|Recursive Type|||
+|9|Dependent Type|||
 |-|Final Exam|||
 
 ## 관련 강의 Related & Advanced Course
