@@ -104,10 +104,11 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |3|Simply Typed Lambda Calculus|||
 |4|Natural Deduction|||
 |5|The Curry-Howard Isomorphism|||
-|6|Polymorphic Lambda Calculus|||
+|6|Polymorphic Type|||
 |7|Inductive Type|||
 |8|Recursive Type|||
-|9|Dependent Type|||
+|9|Type Operator|||
+|10|Dependent Type|||
 |-|Final Exam|||
 
 ## 관련 강의 Related & Advanced Course
