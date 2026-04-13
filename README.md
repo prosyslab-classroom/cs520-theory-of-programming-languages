@@ -100,14 +100,14 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
 |1|[Introduction](slides/lecture1.pdf)|||
-|2|[Lambda Calculus](slides/lecture2.pdf)|||
-|3|Simply Typed Lambda Calculus|||
+|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I||
+|3|Simply Typed Lambda Calculus|TAPL Part II||
 |4|Natural Deduction|||
 |5|The Curry-Howard Isomorphism|||
-|6|Polymorphic Type|||
+|6|Polymorphic Type|TAPL Part V||
 |7|Inductive Type|||
-|8|Recursive Type|||
-|9|Type Operator|||
+|8|Recursive Type|TAPL Part IV||
+|9|Type Operator|TAPL Part VI||
 |10|Dependent Type|||
 |-|Final Exam|||
 
@@ -122,3 +122,5 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 
 #### Lean
 - [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
+- [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
+- [Functional Programming in lean](https://lean-lang.org/functional_programming_in_lean/)
