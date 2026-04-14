@@ -104,11 +104,12 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |3|Simply Typed Lambda Calculus|TAPL Part II||
 |4|Natural Deduction|PAT Chap. 2||
 |5|The Curry-Howard Isomorphism|PAT Chap. 3||
-|6|Polymorphic Type|TAPL Part V||
-|7|Inductive Type|||
-|8|Recursive Type|TAPL Part IV||
-|9|Type Operator|TAPL Part VI||
+|6|Inductive Type|PAT Chap. 7||
+|7|Recursive Type|TAPL Part IV||
+|8|Type Operator|TAPL Part VI||
+|9|Polymorphic Type|TAPL Part V||
 |10|Dependent Type|||
+|11|Proof Automation|||
 |-|Final Exam|||
 
 ## 관련 강의 Related & Advanced Course
