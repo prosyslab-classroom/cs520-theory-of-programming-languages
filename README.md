@@ -117,6 +117,13 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 - [CS424: 프로그램 논증 (Program Reasoning)](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
 - [CS524: 프로그램 분석 (Program Analysis)](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
+## 감사 Acknowledgement
+이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
+
+Part of the meterial is based on lecture notes from similar courses.
+- [Topics in Programming Language Theories](https://kwangkeunyi.snu.ac.kr/4190.510/25/), Seoul National Univ.
+- [Constructive Logic](https://www.cs.cmu.edu/~fp/courses/15317-f00), CMU
+
 ## 참고 References
 #### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
