@@ -109,7 +109,8 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |8|Type Operator|TAPL Part VI||
 |9|Polymorphic Type|TAPL Part V||
 |10|Dependent Type|||
-|11|Proof Automation|||
+|11|Calculus of Construction|||
+|12|Proof Automation|||
 |-|Final Exam|||
 
 ## 관련 강의 Related & Advanced Course
