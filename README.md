@@ -120,7 +120,7 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 ## 감사 Acknowledgement
 이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
 
-Part of the meterial is based on lecture notes from similar courses.
+Part of the material is based on lecture notes from similar courses.
 - [Topics in Programming Language Theories](https://kwangkeunyi.snu.ac.kr/4190.510/25/), Seoul National Univ.
 - [Constructive Logic](https://www.cs.cmu.edu/~fp/courses/15317-f00), CMU
 
@@ -128,8 +128,9 @@ Part of the meterial is based on lecture notes from similar courses.
 #### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu)
 
-#### Lean
+#### Lean/Rocq
 - [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
-- [Functional Programming in lean](https://lean-lang.org/functional_programming_in_lean/)
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
