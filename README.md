@@ -130,6 +130,7 @@ Part of the material is based on lecture notes from similar courses.
 #### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
+- [Propositions as Types](https://dl.acm.org/doi/10.1145/2699407), CACM 2015
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu)
 
 #### Lean/Rocq
