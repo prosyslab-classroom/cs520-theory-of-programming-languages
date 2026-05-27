@@ -105,7 +105,7 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I||
 |3|Simply Typed Lambda Calculus|TAPL Part II|HW1. SimPL |
 |4|Natural Deduction|PAT Chap. 2||
-|5|The Curry-Howard Correspondence|PAT Chap. 3|HW2. Mini-Lean|
+|5|Curry-Howard Correspondence|PAT Chap. 3|HW2. Mini-Lean|
 |6|Subtype|TAPL Part III|HW3: SimPLUS |
 |7|Inductive Type|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
