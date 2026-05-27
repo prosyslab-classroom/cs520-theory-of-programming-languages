@@ -103,16 +103,17 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
 |1|[Introduction](slides/lecture1.pdf)|||
 |2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I||
-|3|Simply Typed Lambda Calculus|TAPL Part II|HW1. Simply Type Lambda Calculus |
+|3|Simply Typed Lambda Calculus|TAPL Part II|HW1. SimPL |
 |4|Natural Deduction|PAT Chap. 2||
-|5|The Curry-Howard Isomorphism|PAT Chap. 3|HW2. Mini-Lean|
-|6|Inductive Type|PAT Chap. 7||
-|7|Recursive Type|TAPL Part IV||
-|8|Polymorphic Type|TAPL Part V||
-|9|Type Operator|TAPL Part VI||
-|10|Dependent Type|ATAPL Part I||
-|11|Calculus of Construction|||
-|12|Proof Automation|||
+|5|The Curry-Howard Correspondence|PAT Chap. 3|HW2. Mini-Lean|
+|6|Subtype|TAPL Part III|HW3: SimPLUS |
+|7|Inductive Type|PAT Chap. 7||
+|8|Recursive Type|TAPL Part IV||
+|9|Polymorphic Type|TAPL Part V||
+|10|Type Operator|TAPL Part VI||
+|11|Dependent Type|ATAPL Part I||
+|12|Calculus of Construction|||
+|13|Proof Automation|||
 |-|Final Exam|||
 
 ## 관련 강의 Related & Advanced Course
