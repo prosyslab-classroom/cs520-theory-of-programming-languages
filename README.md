@@ -99,11 +99,11 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
 |1|[Introduction](slides/lecture1.pdf)|||
-|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I||
-|3|Simply Typed Lambda Calculus|TAPL Part II|HW1. SimPL |
+|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
+|3|Simply Typed Lambda Calculus|TAPL Part II|HW2. SimPL|
 |4|Natural Deduction|PAT Chap. 2||
-|5|Curry-Howard Correspondence|PAT Chap. 3|HW2. Mini-Lean|
-|6|Subtype|TAPL Part III|HW3: SimPLUS |
+|5|Curry-Howard Correspondence|PAT Chap. 3|HW3. Mini-Lean|
+|6|Subtype|TAPL Part III|HW4: SimPLUS |
 |7|Inductive Type|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
 |9|Polymorphic Type|TAPL Part V||
