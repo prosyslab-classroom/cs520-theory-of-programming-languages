@@ -10,7 +10,7 @@
   - 조교 TAs: Mon 10:15 - 11:00
 - 강의실 Location: N1 102
 
-## 강의 소개 Course Description 
+## 강의 소개 Course Description
 > 한 쪽을 보면 다른 쪽도 보이는 신기한 거울 속 평행 세계 이야기
 
 > 모두가 빛나는 허상을 쫓을 때 잊지 말아야할 본질 이야기
@@ -19,7 +19,7 @@
 특히, 아래 세 가지 측면을 깊이 탐구하는 것을 목표로 한다.
 - **프로그래밍 언어**: 타입이 단순히 SW개발의 보조도구가 아니라, 프로그래밍 언어 설계의 핵심임을 이해한다.
 - **논리**: 타입과 명제가 같은 개념임을 깨닫고, 나아가 프로그래밍 언어와 논리가 거울의 양면임을 이해한다.
-- **AI**: 프로그래밍 언어와 AI가 연결될 기회를 엿보고, 논리와 직관을 모두 갖춘 AI(neurosymbolic AI)를 그려본다.
+- **AI**: 프로그래밍 언어와 AI가 연결될 기회를 살피고, 논리와 직관을 아우르는 AI(neurosymbolic AI)가 가능함을 이해한다.
 
 본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
@@ -147,7 +147,7 @@ Part of the material is based on lecture notes from similar courses.
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
 - [MathLib](https://github.com/leanprover-community/mathlib4)
 - [CSLib](https://github.com/leanprover/cslib/)
-  
+
 ### 논리-직관 융합 AI(neurosymbolic AI)
 - [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
