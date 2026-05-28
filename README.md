@@ -138,7 +138,7 @@ Part of the material is based on lecture notes from similar courses.
 - [MathLib](https://github.com/leanprover-community/mathlib4)
 - [CSLib](https://github.com/leanprover/cslib/)
 
-### 논리-직관 융합 AI(neurosymbolic AI)
+#### 논리-직관 융합 AI(neurosymbolic AI)
 - [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
