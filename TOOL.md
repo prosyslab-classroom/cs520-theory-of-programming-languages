@@ -22,10 +22,8 @@ Students will use the [OCaml](https://ocaml.org) programming language for the so
   - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
   - [Commercial Users of Functional Programming](http://cufp.org/2017)
 
-
-## LLVM
-Students will use the [LLVM](https://llvm.org) infrastructure and implement various tools that analyze programs written in LLVM IR code.
-LLVM IR code can be generated from many source languages such as C/C++/Obj-C, Swift, Rust, Scala, Haskell, WebAssembly, etc.
-For more details of LLVM, see this [document](https://llvm.org/docs).
-
-Students are highly recommended to read [the LLVM primer](https://github.com/prosyslab-classroom/llvm-primer).
+## Lean
+We will use the [Lean](https://leanprover.github.io) proof assistant for the formal verification assignments. For more details of Lean, see the following materials:
+  - [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
+  - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
+  - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
