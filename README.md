@@ -138,3 +138,11 @@ Part of the material is based on lecture notes from similar courses.
 - [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
+- [MathLib](https://github.com/leanprover-community/mathlib4)
+- [CSLib](https://github.com/leanprover/cslib/)
+  
+### 논리-직관 융합 AI(neurosymbolic AI)
+- [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
+- [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
+- [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
+- [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
