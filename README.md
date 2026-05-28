@@ -4,10 +4,10 @@
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs520.ta@prosys.kaist.ac.kr)
   - tba
-- 강의 시간 (Time): 월/수 Mon/Wed 09:00 - 10:15
+- 강의 시간 (Time): 화/목 Tue/Thr 09:00 - 10:15
 - 면담 시간 (Office hours) (사전 약속 필요 by appointment):
-  - 교수 Instructor: Mon 10:15 - 11:00
-  - 조교 TAs: Mon 10:15 - 11:00
+  - 교수 Instructor: Thu 10:15 - 11:00
+  - 조교 TAs: tba
 - 강의실 Location: N1 102
 
 ## 강의 소개 Course Description
@@ -16,21 +16,27 @@
 > 모두가 빛나는 가짜를 쫓을 때 잊지 말아야할 진짜 이야기
 
 본 강의에서는 프로그래밍 언어의 핵심 개념 중 하나인 타입을 중심으로 프로그래밍 언어의 이론적 토대를 소개한다.
-특히, 아래 세 가지 측면을 깊이 탐구하는 것을 목표로 한다.
+특히, 아래 세 가지 측면으로 깊이 탐구하는 것을 목표로 한다.
 - **프로그래밍 언어**: 타입이 단순히 SW 개발의 보조 도구가 아니라 프로그래밍 언어 설계의 핵심임을 이해한다.
 - **논리**: 타입과 명제가 같은 개념임을 깨닫고, 나아가 프로그래밍 언어와 논리가 거울의 양면임을 이해한다.
-- **AI**: 프로그래밍 언어와 AI가 연결될 기회를 발견하고, 논리와 직관을 아우르는 AI(neurosymbolic AI)가 가능함을 이해한다.
+- **AI**: 프로그래밍 언어와 AI가 연결되는 고리를 발견하고, 논리와 직관을 아우르는 AI(neurosymbolic AI)가 가능함을 이해한다.
 
 본 강의에서는 [쉬운 전문 용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
 ## 성적 Grading
-- 숙제 Homework: 50%
+#### 반영 비율
+- 숙제 Homework: 40%
 - 기말고사 Final Exam: 40%
-- 참여 Participation: 10%
+- 참여 Participation: 20%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
     - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
   - 매 수업 시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 만큼 가치가 낮지 않기 때문입니다.
     - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
+
+#### 평가 기준
+
+- 절대 평가
+- 종합 점수를 바탕으로 한 대략적인 성적 기준: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
 
 ## 교재 Textbook
 - 강의자료가 제공됩니다. Lecture slides will be provided.
@@ -118,7 +124,7 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 - [CS524: 프로그램 분석 (Program Analysis)](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
 ## 감사 Acknowledgement
-이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
+이 강의의 자료는 아래 강의를 참고하여 작성하였습니다.
 
 Part of the material is based on lecture notes from similar courses.
 - [Topics in Programming Language Theories](https://kwangkeunyi.snu.ac.kr/4190.510/25/), Seoul National Univ.
@@ -140,6 +146,7 @@ Part of the material is based on lecture notes from similar courses.
 
 #### 논리-직관 융합 AI(neurosymbolic AI)
 - [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
+- [Artificial Intelligence for Software Engineering: From Probable to Provable](https://cacm.acm.org/opinion/artificial-intelligence-for-software-engineering-from-probable-to-provable/)
 - [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
