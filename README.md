@@ -95,6 +95,10 @@ The late homework policy is as follows:
 완전히 본인의 것으로 재창조하지 않고 기존 저작물과 비슷한 경우는 표절로 판단합니다.
 이는 학계의 오래된 원칙이며 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
 
+AI 도구는 여러분의 수고를 덜어주지만, 사고를 기르지는 못합니다.
+[여러 실험](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)과 [책](https://product.kyobobook.co.kr/detail/S000000600543)에서 반복해서 이야기하고 있지요.
+근력 운동을 로봇에게 맡기는 운동선수가 되지 마시길 바랍니다.
+
 Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://cs.kaist.ac.kr/content?menu=309).
 
