@@ -97,7 +97,7 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 ## 강의 계획 Schedule
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
 |2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
 |3|Simply Typed Lambda Calculus|TAPL Part II|HW2. SimPL|
