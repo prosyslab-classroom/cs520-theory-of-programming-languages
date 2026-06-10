@@ -152,5 +152,6 @@ Part of the material is based on lecture notes from similar courses.
 - [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [Artificial Intelligence for Software Engineering: From Probable to Provable](https://cacm.acm.org/opinion/artificial-intelligence-for-software-engineering-from-probable-to-provable/)
 - [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
+- [The End of the Coder](https://cacm.acm.org/news/the-end-of-the-coder/)
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
