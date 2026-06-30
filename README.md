@@ -25,8 +25,8 @@
 
 ## 성적 Grading
 #### 반영 비율
-- 숙제 Homework: 40%
-- 기말고사 Final Exam: 40%
+- 숙제 Homework: 30%
+- 기말고사 Final Exam: 50%
 - 참여 Participation: 20%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
     - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
@@ -90,19 +90,16 @@ The late homework policy is as follows:
 ## 학문 윤리 Academic Integrity
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
-세상에 널린 자료(예: 구글 검색, ChatGPT)를 참고하는 것은 좋지만, 그대로 베끼는 것은 윤리에 어긋납니다.
-제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 표절물을 검사합니다.
-완전히 본인의 것으로 재창조하지 않고 기존 저작물과 비슷한 경우는 표절로 판단합니다.
-이는 학계의 오래된 원칙이며 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
+세상에 널린 자료(예: 구글 검색, ChatGPT)를 자신의 창작물인 것처럼 제출하는 것은 윤리에 어긋납니다.
+본 과목의 모든 과제는 예외가 명시된 경우를 제외하고는 본인의 능력으로 하는 것이 원칙입니다.
+제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 비슷한 경우 표절로 판단합니다. 
+이는 학계의 오래된 원칙이며 인터넷 검색이나 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
+[최근 연구 결과](https://arxiv.org/pdf/2510.22954)에 따르면 모델의 종류와 상관없이 비슷한 질문에 비슷한 답을 낸다고 하니 더욱 주의해야겠습니다.
 
-AI 도구는 여러분의 수고를 덜어주지만, 사고를 기르지는 못합니다.
+AI 도구는 여러분의 수고를 덜어주지만, 깊은 사고력을 길러주지는 못합니다.
 [여러 실험](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)과 [책](https://product.kyobobook.co.kr/detail/S000000600543)에서 반복해서 이야기하고 있지요.
-근력 운동을 로봇에게 맡기는 운동선수가 되지 마시길 바랍니다.
-
-Students who violate academic integrity will get an F.
-See [the KAIST CS honor code](https://cs.kaist.ac.kr/content?menu=309).
-
-It’s fine to refer to readily available resources (e.g., Google searches, ChatGPT), but copying them directly is unethical. Submitted assignments will be automatically compared to existing works (other students’ work, past students’ work, AI-generated content, etc.) to check for plagiarism. If the work closely resembles existing material without being fully recreated as your own, it will be considered plagiarism. This principle remains unchanged even in the AI era.
+무턱대고 AI도구에 의존하는 것은 마치 운동선수가 근력 운동을 로봇에게 맡기는 꼴이 됩니다.
+여러분의 소중한 학습 기회를 쉽게 버리지 마시길 바랍니다.
 
 ## 강의 계획 Schedule
 |Week|Topics|Reading|Homework|
