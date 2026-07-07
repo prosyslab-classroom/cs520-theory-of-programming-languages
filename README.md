@@ -1,16 +1,16 @@
-# CS520: 프로그래밍 언어 이론 (Theory of Programming Languages)
+# CS520: 프로그래밍 언어 이론 (English version)(README.en.md)
 
-## 수업정보 Logistics
-- 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
-- 조교 TAs (mailing list: cs520.ta@prosys.kaist.ac.kr)
+## 수업정보
+- 교수: [허기홍 (https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
+- 조교(mailing list: cs520.ta@prosys.kaist.ac.kr)
   - 이동재
-- 강의 시간 (Time): 화/목 Tue/Thr 09:00 - 10:15
-- 면담 시간 (Office hours) (사전 약속 필요 by appointment):
-  - 교수 Instructor: Thu 10:15 - 11:00
+- 강의 시간: 화/목 09:00 - 10:15
+- 면담 시간(사전 약속 필요):
+  - 교수 10:15 - 11:00
   - 조교 TAs: tba
-- 강의실 Location: N1 102
+- 강의실: N1 102
 
-## 강의 소개 Course Description
+## 강의 소개
 > 한 쪽을 보면 다른 쪽도 보이는 신기한 거울 속 이야기
 
 > 모두가 빛나는 가짜를 쫓을 때 잊지 말아야할 진짜 이야기
@@ -23,37 +23,25 @@
 
 본 강의에서는 [쉬운 전문 용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
-> A Journey Through the Mirror: See one side, and the other comes into view.
-
-> A Story of What Is Real: When everyone is chasing glittering illusions, don’t forget what is genuine.
-
-This course introduces the theoretical foundations of programming languages through one of their central concepts: types. In particular, we will explore the subject from three complementary perspectives:
-
-- **Programming Languages**: Understand that types are not merely auxiliary tools for software development, but a fundamental principle underlying the design of programming languages.
-- **Logic**: Discover that types and logical propositions are two views of the same concept, and that programming languages and logic are, in a sense, two sides of the same mirror.
-- **AI**: Explore the connection between programming languages and artificial intelligence, and understand how neurosymbolic AI can bridge logical reasoning with intuitive learning.
-
-## 성적 Grading
+## 성적
 #### 반영 비율
-- 숙제 Homework: 30%
-- 기말고사 Final Exam: 50%
-- 참여 Participation: 20%
+- 숙제: 30%
+- 기말고사: 50%
+- 참여: 20%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
-    - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
   - 매 수업 시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 만큼 가치가 낮지 않기 때문입니다.
-    - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
 
-#### 평가 기준 Evaluation Criteria
-- 절대 평가 Absolute Grading: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
+#### 평가 기준
+- 절대 평가: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
 
-## 교재 Textbook
-- 강의자료가 제공됩니다. Lecture slides will be provided.
+## 교재
+- 강의자료가 제공됩니다.
 - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) (TAPL)
 - [Advanced Topics in Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/attapl/) (ATAPL)
 - [Proofs and Types](https://www.paultaylor.eu/stable/prot.pdf) (PAT)
 - [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl.html) (PFPL)
 
-## 몰입을 위한 약속 Promises for Engagement
+## 몰입을 위한 약속
 모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 태블릿, 핸드폰)는 책상 위에 올려놓지 않기로 합시다.
 수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([참고1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[참고2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
 본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는 데도 큰 방해가 됩니다.
@@ -62,14 +50,7 @@ This course introduces the theoretical foundations of programming languages thro
 
 자세한 이야기는 [기사](https://prosys.kaist.ac.kr/engagement/)를 참고하세요.
 
-For a lecture where everyone can stay fully engaged, let’s agree not to keep any electronic devices (laptops, tablets, phones) on the desk.
-The negative effects of using electronic devices during class are already well-documented ([Ref1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub), [Ref2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
-They not only distract you, but also seriously interfere with the ability of those around you to focus.
-
-Instead of everyone looking at separate screens, I hope this will be a class where we look at the same place together and actively talk with one another.
-All necessary materials are available in this repository, so please print them out in advance if you’d like.
-
-## 숙제 Homework
+## 숙제
 이 강의에서 학생들은 프로그래밍 숙제를 통해 이론적 사실을 증명하고 실제로 실현하는 법을 배웁니다.
 특히 [여기](TOOL.md)에 있는 도구를 주로 사용할 예정입니다.
 
@@ -84,44 +65,21 @@ All necessary materials are available in this repository, so please print them o
 - 이틀 늦을 시 점수의 50%
 - 사흘 이상 늦을 시 0%
 
-All submissions will be managed using GitHub and Gradescope.
-For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [Discussion board](../../discussions).
-Once you accept the invitation, a private repository for your assignment will be created.
-You can push as many commits as you want before the deadline.
-You can submit this repository to Gradescope to check your grading results.
-
-The late homework policy is as follows:
-- 80% credit for one day late
-- 50% credit for two days late
-- NO credit given after two days late
-
-## 학문 윤리 Academic Integrity
+## 학문 윤리
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
 세상에 널린 자료(예: 구글 검색, ChatGPT)를 자신의 창작물인 것처럼 제출하는 것은 학문 윤리에 어긋납니다.
 본 과목의 모든 과제는 본인의 능력으로 하는 것이 원칙입니다.
-제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 비슷한 경우 표절로 판단합니다. 
+제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 비슷한 경우 표절로 판단합니다.
 이는 학계의 오래된 원칙이며 인터넷 검색이나 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
 
 AI 도구는 여러분의 수고를 덜어주지만, 깊은 사고력을 길러주지는 못합니다.
 [여러 실험](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)과 [책](https://product.kyobobook.co.kr/detail/S000000600543)에서 반복해서 이야기하고 있지요.
-AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 답](https://arxiv.org/pdf/2510.22954)을 내는 경우가 많기도 하고요. 
+AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 답](https://arxiv.org/pdf/2510.22954)을 내는 경우가 많기도 하고요.
 여러분의 소중한 학습 기회를 쉽게 버리지 마시길 바랍니다.
 
-Students who violate academic integrity will receive a grade of F for the course. For details, please refer to the KAIST School of Computing Honor Code.
-
-Submitting publicly available materials (e.g., Google search results or ChatGPT-generated content) as if they were your own work constitutes academic misconduct. All assignments in this course are expected to reflect your own understanding and effort.
-
-Submitted assignments will be automatically compared against existing works, including submissions from current and former students, publicly available materials, and AI-generated content. Submissions with substantial similarities may be considered plagiarism.
-
-These principles have long been fundamental to academic research and education. The availability of internet search engines or AI tools does not change them.
-
-AI tools can make programming and writing more convenient, but they cannot replace the process of developing deep understanding and critical thinking. This point has been repeatedly emphasized in both empirical studies and books. Moreover, regardless of the specific AI model, similar prompts often produce similar, conventional answers, limiting originality and independent reasoning (paper).
-
-Please do not give up this valuable opportunity to develop your own knowledge and problem-solving skills.
-
-## 강의 계획 Schedule
-|Week|Topics|Reading|Homework|
+## 강의 계획
+|주|주제|읽기|숙제|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
@@ -140,19 +98,18 @@ Please do not give up this valuable opportunity to develop your own knowledge an
 |14|||HW7. Agentic Proof Automation|
 |-|Final Exam|||
 
-## 관련 강의 Related & Advanced Course
-- [CS424: 프로그램 논증 (Program Reasoning)](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
-- [CS524: 프로그램 분석 (Program Analysis)](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
+## 관련 강의
+- [CS424: 프로그램 논증](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
+- [CS524: 프로그램 분석](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
-## 감사 Acknowledgement
+## 감사
 이 강의의 자료는 아래 강의를 참고하여 작성하였습니다.
 
-Part of the material is based on lecture notes from similar courses.
 - [Topics in Programming Language Theories](https://kwangkeunyi.snu.ac.kr/4190.510/25/), Seoul National Univ.
 - [Constructive Logic](https://www.cs.cmu.edu/~fp/courses/15317-f00), CMU
 
-## 참고 References
-#### 기본 Preliminaries
+## 참고
+#### 기본
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
 - [Propositions as Types](https://dl.acm.org/doi/10.1145/2699407), CACM 2015
@@ -165,7 +122,7 @@ Part of the material is based on lecture notes from similar courses.
 - [MathLib](https://github.com/leanprover-community/mathlib4)
 - [CSLib](https://github.com/leanprover/cslib/)
 
-#### 논리-직관 융합 AI(neurosymbolic AI)
+#### 논리-직관 융합 AI(Neurosymbolic AI)
 - [Formal Reasoning Meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [Artificial Intelligence for Software Engineering: From Probable to Provable](https://cacm.acm.org/opinion/artificial-intelligence-for-software-engineering-from-probable-to-provable/)
 - [AlphaProof and AlphaGeometry](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/)
