@@ -3,7 +3,7 @@
 ## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs520.ta@prosys.kaist.ac.kr)
-  - tba
+  - 이동재
 - 강의 시간 (Time): 화/목 Tue/Thr 09:00 - 10:15
 - 면담 시간 (Office hours) (사전 약속 필요 by appointment):
   - 교수 Instructor: Thu 10:15 - 11:00
@@ -23,6 +23,16 @@
 
 본 강의에서는 [쉬운 전문 용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
+> A Journey Through the Mirror: See one side, and the other comes into view.
+
+> A Story of What Is Real: When everyone is chasing glittering illusions, don’t forget what is genuine.
+
+This course introduces the theoretical foundations of programming languages through one of their central concepts: types. In particular, we will explore the subject from three complementary perspectives:
+
+- **Programming Languages**: Understand that types are not merely auxiliary tools for software development, but a fundamental principle underlying the design of programming languages.
+- **Logic**: Discover that types and logical propositions are two views of the same concept, and that programming languages and logic are, in a sense, two sides of the same mirror.
+- **AI**: Explore the connection between programming languages and artificial intelligence, and understand how neurosymbolic AI can bridge logical reasoning with intuitive learning.
+
 ## 성적 Grading
 #### 반영 비율
 - 숙제 Homework: 30%
@@ -33,10 +43,8 @@
   - 매 수업 시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 만큼 가치가 낮지 않기 때문입니다.
     - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
 
-#### 평가 기준
-
-- 절대 평가
-- 종합 점수를 바탕으로 한 대략적인 성적 기준: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
+#### 평가 기준 Evaluation Criteria
+- 절대 평가 Absolute Grading: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
 
 ## 교재 Textbook
 - 강의자료가 제공됩니다. Lecture slides will be provided.
@@ -90,16 +98,27 @@ The late homework policy is as follows:
 ## 학문 윤리 Academic Integrity
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
-세상에 널린 자료(예: 구글 검색, ChatGPT)를 자신의 창작물인 것처럼 제출하는 것은 윤리에 어긋납니다.
-본 과목의 모든 과제는 예외가 명시된 경우를 제외하고는 본인의 능력으로 하는 것이 원칙입니다.
+세상에 널린 자료(예: 구글 검색, ChatGPT)를 자신의 창작물인 것처럼 제출하는 것은 학문 윤리에 어긋납니다.
+본 과목의 모든 과제는 본인의 능력으로 하는 것이 원칙입니다.
 제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 비슷한 경우 표절로 판단합니다. 
 이는 학계의 오래된 원칙이며 인터넷 검색이나 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
-[최근 연구 결과](https://arxiv.org/pdf/2510.22954)에 따르면 모델의 종류와 상관없이 비슷한 질문에 비슷한 답을 낸다고 하니 더욱 주의해야겠습니다.
 
 AI 도구는 여러분의 수고를 덜어주지만, 깊은 사고력을 길러주지는 못합니다.
 [여러 실험](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)과 [책](https://product.kyobobook.co.kr/detail/S000000600543)에서 반복해서 이야기하고 있지요.
-무턱대고 AI도구에 의존하는 것은 마치 운동선수가 근력 운동을 로봇에게 맡기는 꼴이 됩니다.
+AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 답](https://arxiv.org/pdf/2510.22954)을 내는 경우가 많기도 하고요. 
 여러분의 소중한 학습 기회를 쉽게 버리지 마시길 바랍니다.
+
+Students who violate academic integrity will receive a grade of F for the course. For details, please refer to the KAIST School of Computing Honor Code.
+
+Submitting publicly available materials (e.g., Google search results or ChatGPT-generated content) as if they were your own work constitutes academic misconduct. All assignments in this course are expected to reflect your own understanding and effort.
+
+Submitted assignments will be automatically compared against existing works, including submissions from current and former students, publicly available materials, and AI-generated content. Submissions with substantial similarities may be considered plagiarism.
+
+These principles have long been fundamental to academic research and education. The availability of internet search engines or AI tools does not change them.
+
+AI tools can make programming and writing more convenient, but they cannot replace the process of developing deep understanding and critical thinking. This point has been repeatedly emphasized in both empirical studies and books. Moreover, regardless of the specific AI model, similar prompts often produce similar, conventional answers, limiting originality and independent reasoning (paper).
+
+Please do not give up this valuable opportunity to develop your own knowledge and problem-solving skills.
 
 ## 강의 계획 Schedule
 |Week|Topics|Reading|Homework|
@@ -139,7 +158,7 @@ Part of the material is based on lecture notes from similar courses.
 - [Propositions as Types](https://dl.acm.org/doi/10.1145/2699407), CACM 2015
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu)
 
-#### Lean/Rocq
+#### Lean
 - [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/index.html)
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
