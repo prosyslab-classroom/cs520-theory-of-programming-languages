@@ -1,8 +1,8 @@
 # CS520: Theory of Programming Languages [🇰🇷](README.md)[🇬🇧](README.en.md)
 
 ## Logistics
-- Instructor: Kihong Heo [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
-- TAs [📧](cs520.ta@prosys.kaist.ac.kr)
+- Instructor: Kihong Heo [🏠](https://kihongheo.kaist.ac.kr) [📧](mailto:kihong.heo@prosys.kaist.ac.kr)
+- TAs [📧](mailto:cs520.ta@prosys.kaist.ac.kr)
   - Dongjae Lee [🏠](https://duncan020313.github.io/blog/)
 - Lecture time: Tue/Thu 09:00 - 10:15
 - Office hours (appointment required in advance):
