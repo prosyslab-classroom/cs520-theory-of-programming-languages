@@ -21,7 +21,7 @@
 - **논리**: 타입과 명제가 같은 개념임을 깨닫고, 나아가 프로그래밍 언어와 논리가 거울의 양면임을 이해한다.
 - **AI**: 프로그래밍 언어와 AI가 연결되는 고리를 발견하고, 논리와 직관을 아우르는 AI(neurosymbolic AI)가 가능함을 이해한다.
 
-본 강의에서는 [쉬운 전문 용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
 ## 성적
 #### 반영 비율
