@@ -1,19 +1,19 @@
-# CS520: Programming Language Theory
+# CS520: Theory of Programming Languages [🇰🇷](README.md)[🇬🇧](README.en.md)
 
-## Course Information
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
-- TAs (mailing list: cs520.ta@prosys.kaist.ac.kr)
-  - Dongjae Lee
+## Logistics
+- Instructor: Kihong Heo [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
+- TAs [📧](cs520.ta@prosys.kaist.ac.kr)
+  - Dongjae Lee [🏠](https://duncan020313.github.io/blog/)
 - Lecture time: Tue/Thu 09:00 - 10:15
 - Office hours (appointment required in advance):
-  - Instructor 10:15 - 11:00
-  - Teaching assistants: tba
+  - Instructor: Tue 10:15 - 11:00
+  - TAs: TBA
 - Location: N1 102
 
 ## Course Description
-> A strange story in a mirror where one side sees the other side too
+> A strange story in a mirror where one side also sees the other side
 
-> A story about what we must not forget when everyone chases glittering fakes
+> A true story not to forget when everyone chases glittering fakes
 
 This course introduces the theoretical foundations of programming languages, centered on types, one of the core concepts of programming languages.
 In particular, it aims to explore the following three aspects in depth:
@@ -26,8 +26,8 @@ In particular, it aims to explore the following three aspects in depth:
 - Homework: 30%
 - Final exam: 50%
 - Participation: 20%
-  - This is a reward for students who actively participate and [express in diverse ways what they have learned on their own](hof.md).
-  - We hope to see you in every class session. [Attendance is not graded quantitatively](https://prosys.kaist.ac.kr/attendance/). That is because it is not worth enough to be quantified.
+  - This is a reward for students who actively participate and [spontaneously express in diverse ways what they have learned](hof.md).
+  - I hope to see you at every class. [Attendance is not graded quantitatively](https://prosys.kaist.ac.kr/attendance/). That is because its value is not low enough to be quantified.
 
 #### Grading Criteria
 - Absolute grading: A >= 70, B >= 50, C >= 30, D >= 20, F < 20
@@ -41,7 +41,7 @@ In particular, it aims to explore the following three aspects in depth:
 
 ## Commitment to Engagement
 For a class where everyone is engaged, let us agree not to place any electronic devices (laptops, tablets, phones) on top of our desks.
-The harmful effects of using electronic devices during class are already widely known ([Reference 1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[Reference 2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
+The harmful effects of using electronic devices during class are already widely known([1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
 Not only do they distract you, but they also greatly interfere with the people around you concentrating on the class.
 Rather than everyone looking at their own separate monitor, I hope this will be a class where we all look at the same place together and have lively, freewheeling discussions.
 The materials you need are in this repository, so if you want, please print them out in advance.
@@ -72,14 +72,16 @@ Submitted assignments are automatically compared with existing works (other stud
 This is a long-standing principle in academia, and it has not changed just because internet search or AI tools have appeared.
 
 AI tools can reduce your effort, but they cannot cultivate deep thinking.
-This is repeated in [many experiments](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/) and [books](https://product.kyobobook.co.kr/detail/S000000600543).
+This is repeatedly discussed in several experiments ([1](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/),
+[2](https://product.kyobobook.co.kr/detail/S000000600543)
+[3](https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/)).
 Regardless of the type of AI model, [similar questions often receive similarly ordinary answers](https://arxiv.org/pdf/2510.22954).
 Please do not easily throw away your precious learning opportunities.
 
 ## Course Schedule
 |Week|Topic|Reading|Homework|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming, Lean Game|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
 |2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
 |3|Simply Typed Lambda Calculus|TAPL Part II|HW2. SimPL|
@@ -92,8 +94,8 @@ Please do not easily throw away your precious learning opportunities.
 |10|Type Operator|TAPL Part VI|HW5. Mini-Lean $\omega$|
 |11|Dependent Type|ATAPL Part I||
 |12|Calculus of Construction||HW6. Mini-Lean $\Pi$|
-|13|Proof Automation||HW7. Search-based Proof Automation|
-|14|||HW7. Agentic Proof Automation|
+|13|Proof Automation (1)||HW7. Search-based Proof Automation|
+|14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
 
 ## Related Courses

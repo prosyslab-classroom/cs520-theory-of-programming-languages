@@ -3,11 +3,11 @@
 ## 수업정보
 - 교수: 허기홍 [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
 - 조교 [📧](cs520.ta@prosys.kaist.ac.kr)
-  - 이동재
+  - 이동재 [🏠](https://duncan020313.github.io/blog/)
 - 강의 시간: 화/목 09:00 - 10:15
 - 면담 시간(사전 약속 필요):
   - 교수: 화 10:15 - 11:00
-  - 조교: tba
+  - 조교: TBA
 - 강의실: N1 102
 
 ## 강의 소개
@@ -43,7 +43,7 @@
 
 ## 몰입을 위한 약속
 모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 태블릿, 핸드폰)는 책상 위에 올려놓지 않기로 합시다.
-수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([참고1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[참고2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
+수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
 본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는 데도 큰 방해가 됩니다.
 모두가 각자 따로 모니터를 보기 보다는 함께 같은 곳을 보며 왁자지껄 난상토론하는 수업이 되길 바랍니다.
 필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄해서 오세요.
@@ -74,14 +74,18 @@
 이는 학계의 오래된 원칙이며 인터넷 검색이나 AI 도구가 등장했다고 해서 달라진 것은 없습니다.
 
 AI 도구는 여러분의 수고를 덜어주지만, 깊은 사고력을 길러주지는 못합니다.
-[여러 실험](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)과 [책](https://product.kyobobook.co.kr/detail/S000000600543)에서 반복해서 이야기하고 있지요.
+여러 실험에서([1](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/),
+[2](https://product.kyobobook.co.kr/detail/S000000600543)
+[3](https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/))
+에서 반복해서 이야기하고 있지요.
 AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 답](https://arxiv.org/pdf/2510.22954)을 내는 경우가 많기도 하고요.
+
 여러분의 소중한 학습 기회를 쉽게 버리지 마시길 바랍니다.
 
 ## 강의 계획
 |주|주제|읽기|숙제|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming, Lean Game|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
 |2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
 |3|Simply Typed Lambda Calculus|TAPL Part II|HW2. SimPL|
@@ -94,8 +98,8 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |10|Type Operator|TAPL Part VI|HW5. Mini-Lean $\omega$|
 |11|Dependent Type|ATAPL Part I||
 |12|Calculus of Construction||HW6. Mini-Lean $\Pi$|
-|13|Proof Automation||HW7. Search-based Proof Automation|
-|14|||HW7. Agentic Proof Automation|
+|13|Proof Automation (1)||HW7. Search-based Proof Automation|
+|14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
 
 ## 관련 강의
