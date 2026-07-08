@@ -1,13 +1,13 @@
-# CS520: 프로그래밍 언어 이론 (English version)(README.en.md)
+# CS520: 프로그래밍 언어 이론 [🇰🇷](README.md)[🇬🇧](README.en.md)
 
 ## 수업정보
-- 교수: [허기홍 (https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
-- 조교(mailing list: cs520.ta@prosys.kaist.ac.kr)
+- 교수: 허기홍 [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
+- 조교 [📧](cs520.ta@prosys.kaist.ac.kr)
   - 이동재
 - 강의 시간: 화/목 09:00 - 10:15
 - 면담 시간(사전 약속 필요):
-  - 교수 10:15 - 11:00
-  - 조교 TAs: tba
+  - 교수: 화 10:15 - 11:00
+  - 조교: tba
 - 강의실: N1 102
 
 ## 강의 소개
