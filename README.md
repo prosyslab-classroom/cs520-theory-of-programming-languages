@@ -93,10 +93,10 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |6|Subtype|TAPL Part III|HW4: SimPLUS|
 |7|Inductive Type|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
-|9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean F|
-|10|Type Operator|TAPL Part VI|HW5. Mini-Lean F$\omega$|
+|9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean $F$|
+|10|Type Operator|TAPL Part VI|HW5. Mini-Lean $\F\omega$|
 |11|Dependent Type|ATAPL Part I||
-|12|Calculus of Construction||HW6. Mini-Lean C|
+|12|Calculus of Construction||HW6. Mini-Lean $C$|
 |13|Proof Automation (1)||HW7. Search-based Proof Automation|
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
