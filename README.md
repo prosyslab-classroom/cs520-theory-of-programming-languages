@@ -86,7 +86,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
-|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
+|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Slang|
 |3|Simply Typed Lambda Calculus|TAPL Part II|HW2. SimPL|
 |4|Natural Deduction|PAT Chap. 2||
 |5|Curry-Howard Correspondence|PAT Chap. 3|HW3. Mini-Lean|
