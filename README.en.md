@@ -129,3 +129,4 @@ The materials for this course were prepared with reference to the courses below.
 - [The End of the Coder](https://cacm.acm.org/news/the-end-of-the-coder/)
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
+- [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
