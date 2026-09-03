@@ -29,7 +29,19 @@ To check the requirements, we provide a `Makefile` that includes the following c
 ### 1. Directory Structure & Program Structure
 Same as programming assignments.
 
-### 2. Basic Proof Engineering Practices (Excerpted from Software Foundation)
+### 2. Disallowed Tactics
+
+Automated proof tactics are not allowed in this assignment such as `simp`, `aesop`, `grind`, `omega` and their variants.
+You are expected to write your own proofs using basic tactics such as `intro`, `apply`, `cases`, and `induction`.
+
+The course environment provides a tactic checker to help you avoid using disallowed tactics.
+The tactic checker will scan your Lean files for disallowed tactics and report any violations.
+To scan the repository, run the following command in the root directory of this repository:
+```console
+make check
+```
+
+### 3. Basic Proof Engineering Practices (Excerpted from Software Foundation)
 
 Lean, like any other programming language, has conventions and best practices for writing good software. 
 Lean takes inspiration from object-oriented programming in favoring the use of encapsulation. 
