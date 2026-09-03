@@ -29,41 +29,47 @@ To check the requirements, we provide a `Makefile` that includes the following c
 ### 1. Directory Structure & Program Structure
 Same as programming assignments.
 
-### 2. Basic Proof Engineering Practices
+### 2. Basic Proof Engineering Practices (Excerpted from Software Foundation)
 
-Proofs must treat definitions as encapsulated implementation details.
-Do not rely on `rfl` to unfold a function implicitly in later proofs (so-called
-definitional-equality abuse). Instead, expose the behavior of a function through
-named simplification, or characterization, lemmas and use `rw`.
+Lean, like any other programming language, has conventions and best practices for writing good software. 
+Lean takes inspiration from object-oriented programming in favoring the use of encapsulation. 
+In OOP, it is considered poor style to expose the fields of an object in its interface; 
+instead, those fields should be accessible only by an object's methods (like getters and setters). 
+Doing so hides the object's definition, so that, if its fields or implementation ever change, 
+the interface it exposes to the outside world remains the same. 
+In simple examples, such conventions may seem overly pedantic; 
+in complex codebases, they are the only way to maintain crucial invariants that prevent a system from becoming unmaintainable.
 
-- For every branch of a `match` or recursive definition, prove a lemma describing
-  that branch's behavior.
-- For educational purposes, automatic simplification tactics such as `simp` and
-  `dsimp` (and similar automation) are prohibited. Students must expose the
-  rewriting steps explicitly using the required lemmas and `rw`.
-- After the characterization lemmas have been proved, definitions may be marked
-  `[irreducible]` when appropriate; later proofs must continue to use the lemmas
-  rather than the implementation.
-- Using `rfl` to prove the characterization lemmas themselves is acceptable: in
-  that situation it verifies the definition's individual computation rule.
+The same principle applies to programs and proofs in Lean.
+In your assignments, you will be proving facts about functions entirely through their _simplification rules_, also known as _characterization lemma_,
+rather than using `rfl` to unfold their implementations invisibly. 
+This makes every computation step visible and lets a proof rely on a function's interface rather than its definition.
 
 For example, suppose addition is defined by recursion on its second argument:
-
 ```lean
-namespace ProofExample
-
 def add (n m : Nat) : Nat :=
   match m with
   | 0 => n
   | Nat.succ m' => Nat.succ (add n m')
+```
 
+The following two theorems provide a characterization of the behavior of `add`:
+```lean
 theorem add_zero (n : Nat) : add n 0 = n := by
   rfl
 
-theorem add_succ (n m : Nat) :
-    add n (Nat.succ m) = Nat.succ (add n m) := by
+theorem add_succ (n m : Nat) : add n (succ m) = succ (add n m) := by
   rfl
+```
+Note that the characterization lemmas make using `rfl` to simplify expressions unnecessary.
+Instead, we can rewrite by these theorems anywhere we want to describe how `add` evaluates. 
+In real-world Lean developments, the style of writing proofs using simplification rules is both standard and expected.
 
+In assignments, we mark definitions with `attribute [irreducible]` to prevent this kind of unfolding.
+This means that `rfl` cannot unfold these definitions behind the scenes: after rewriting by their simplification rules, 
+it closes only the remaining straightforward equality. 
+For example, using our simplification rules, we can carry out a simple proof about natural numbers:
+```lean
 attribute [irreducible] add
 
 theorem add_zero_zero (n : Nat) : add (add n 0) 0 = n := by
@@ -71,14 +77,9 @@ theorem add_zero_zero (n : Nat) : add (add n 0) 0 = n := by
 
 theorem add_one (n : Nat) : add n (Nat.succ 0) = Nat.succ n := by
   rw [add_succ, add_zero]
-
-end ProofExample
 ```
 
-Here `add_zero` and `add_succ` are the two rewrite rules corresponding to the
-two branches of `add`. In `add_zero_zero`, the first `rw [add_zero]` changes
-`add (add n 0) 0` to `add n 0`, and the second changes it to `n`; the goal is
-then reflexive. In `add_one`, `add_succ` first changes the left side to
-`Nat.succ (add n 0)`, and `add_zero` reduces the inner addition to `n`.
-The proof therefore documents the function's interface instead of depending
-on its hidden implementation.
+In assignments, students are required to follow such proof engineering practices:
+- Do not change the location of `attribute [irreducible]`
+- Define and prove simplification lemmas for definitions before `attribute [irreducible]`
+- Prove provided theorems after `attribute [irreducible]` using the simplification lemmas
