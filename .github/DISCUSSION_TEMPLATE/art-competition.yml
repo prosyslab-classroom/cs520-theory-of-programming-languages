@@ -1,0 +1,35 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ** Upload your artwork and provide the following description. **
+  - type: textarea
+    id: art
+    attributes:
+      label: Your work
+      description: "A description about your work."
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 이름 Your Name
+      description: "한국인은 한국어로 써주세요. Provide your Korean name as well if you are a Korean."
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: 사용한 도구 Tool You Used
+      description: "E.g., Dall-E, Suno, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: long
+    attributes:
+      label: Long Description (up to 3 sentences)
+      description: "작품의 상세 설명. 한국인은 한국어로 쓰고 영문 번역을 첨부해주세요. Detailed description"
+      value: |
+        ...
+    validations:
+      required: true
