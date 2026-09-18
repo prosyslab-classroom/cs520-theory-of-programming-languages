@@ -137,3 +137,4 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
 - [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
+- [A Severe Misalignment of AI in Mathematics](https://mathandai.org)
