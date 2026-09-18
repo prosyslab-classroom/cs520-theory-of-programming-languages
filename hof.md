@@ -6,3 +6,4 @@
 - [AI 시대의 프로그래밍: 평가 엔지니어링 - 김지훈](essay/2026-future-of-programming-jihun.pdf)
 - [프로그래밍의 새로운 병목 - 김병권](essay/2026-future-of-programming-byoungkwon.pdf)
 - [과정 없는 결과의 가치 - 김현구](essay/2026-future-of-programming-hyungu.pdf)
+- [AI가 만든 허세 속에서 본질 잡아내기 - 이승욱](essay/2026-future-of-programming-seunguk.pdf)
