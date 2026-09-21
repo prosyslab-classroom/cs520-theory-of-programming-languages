@@ -28,7 +28,7 @@
 - 숙제: 30%
 - 기말고사: 50%
 - 참여: 20%
-  - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
+  - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](HOF.md) 학생들을 위한 보상입니다.
   - 매 수업 시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 만큼 가치가 낮지 않기 때문입니다.
 
 #### 평가 기준
@@ -104,6 +104,9 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |13|Proof Automation (1)||HW7. Search-based Proof Automation|
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
+
+## 명예의 전당
+지난 학기 수강생들이 [남긴](https://prosys.kaist.ac.kr/what-is-left/) 멋진 작품을 [여기서](HOF.md) 감상해 보세요 (에세이, 그림 등).
 
 ## 관련 강의
 - [CS424: 프로그램 논증](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST

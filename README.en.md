@@ -26,7 +26,7 @@ In particular, it aims to explore the following three aspects in depth:
 - Homework: 30%
 - Final exam: 50%
 - Participation: 20%
-  - This is a reward for students who actively participate and [spontaneously express in diverse ways what they have learned](hof.md).
+  - This is a reward for students who actively participate and [spontaneously express in diverse ways what they have learned](HOF.md).
   - I hope to see you at every class. [Attendance is not graded quantitatively](https://prosys.kaist.ac.kr/attendance/). That is because its value is not low enough to be quantified.
 
 #### Grading Criteria
@@ -97,6 +97,9 @@ Please do not easily throw away your precious learning opportunities.
 |13|Proof Automation (1)||HW7. Search-based Proof Automation|
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
+
+## Hall of Fame
+See the outstanding achievement of our friends [here](HOF.md).
 
 ## Related Courses
 - [CS424: Program Reasoning](https://github.com/prosyslab-classroom/cs424-program-reasoning), KAIST
