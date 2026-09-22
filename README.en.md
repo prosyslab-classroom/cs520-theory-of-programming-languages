@@ -87,7 +87,7 @@ Please do not easily throw away your precious learning opportunities.
 |3|[Simply Typed Lambda Calculus](slides/lecture3.pdf)|TAPL Part II|HW2. SimPL|
 |4|[Natural Deduction](slides/lecture4.pdf)|PAT Chap. 2||
 |5|[Curry-Howard Correspondence](slideds/lecture5.pdf)|PAT Chap. 3|HW3. Mini-Lean|
-|6|Subtype|TAPL Part III|HW4: SimPLUS|
+|6|[Subtype](slides/lecture6.pdf)|TAPL Part III|HW4: SimPLUS|
 |7|Inductive Type|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
 |9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean F|
