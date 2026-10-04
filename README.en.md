@@ -5,10 +5,10 @@
 - TAs [📧](mailto:cs520.ta@prosys.kaist.ac.kr)
   - Dongjae Lee [🏠](https://duncan020313.github.io/blog/)
 - Lecture time: Tue/Thu 09:00 - 10:15
+- Location: N1 102
 - Office hours (appointment required in advance):
   - Instructor: Tue 10:15 - 11:00
-  - TAs: TBA
-- Location: N1 102
+  - TAs: Tue 14:00 - 15:00
 
 ## Course Description
 > A strange story in a mirror where one side also sees the other side
@@ -62,6 +62,10 @@ If you submit after the deadline, it will be graded according to the following r
 - One day late: 80% of the score
 - Two days late: 50% of the score
 - Three or more days late: 0%
+
+All programming assignments follow the philosophy of value-oriented programming [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)] and the fundamental principles of software development.
+Through this, you will experience both the joy of programming and the qualities of an advanced developer.
+For details, see [here](REQUIREMENTS.md).
 
 ## Academic Integrity
 Students who violate academic integrity will receive an F. For details, please refer to the [KAIST School of Computing Honor Code](https://cs.kaist.ac.kr/content?menu=309).
