@@ -95,7 +95,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |4|[Natural Deduction](slides/lecture4.pdf)|PAT Chap. 2||
 |5|[Curry-Howard Correspondence](slideds/lecture5.pdf)|PAT Chap. 3|HW3. Mini-Lean|
 |6|[Subtype](slides/lecture6.pdf)|TAPL Part III|HW4: SimPLUS|
-|7|Inductive Type|PAT Chap. 7||
+|7|[Inductive Type](slides/lecture7.pdf)|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
 |9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean $F$|
 |10|Type Operator|TAPL Part VI|HW5. Mini-Lean $F\omega$|

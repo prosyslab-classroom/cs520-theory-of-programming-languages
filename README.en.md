@@ -83,17 +83,17 @@ Please do not easily throw away your precious learning opportunities.
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml Programming, Lean Game|
 |1|[Introduction](slides/lecture1.pdf)|||
-|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Sim|
+|2|[Lambda Calculus](slides/lecture2.pdf)|TAPL Part I|HW1. Slang|
 |3|[Simply Typed Lambda Calculus](slides/lecture3.pdf)|TAPL Part II|HW2. SimPL|
 |4|[Natural Deduction](slides/lecture4.pdf)|PAT Chap. 2||
 |5|[Curry-Howard Correspondence](slideds/lecture5.pdf)|PAT Chap. 3|HW3. Mini-Lean|
 |6|[Subtype](slides/lecture6.pdf)|TAPL Part III|HW4: SimPLUS|
-|7|Inductive Type|PAT Chap. 7||
+|7|[Inductive Type](slides/lecture7.pdf)|PAT Chap. 7||
 |8|Recursive Type|TAPL Part IV||
-|9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean F|
-|10|Type Operator|TAPL Part VI|HW5. Mini-Lean $\omega$|
+|9|Polymorphic Type|TAPL Part V|HW4. Mini-Lean $F$|
+|10|Type Operator|TAPL Part VI|HW5. Mini-Lean $F\omega$|
 |11|Dependent Type|ATAPL Part I||
-|12|Calculus of Construction||HW6. Mini-Lean $\Pi$|
+|12|Calculus of Construction||HW6. Mini-Lean $C$|
 |13|Proof Automation (1)||HW7. Search-based Proof Automation|
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
@@ -133,3 +133,4 @@ The materials for this course were prepared with reference to the courses below.
 - [VeriSafe Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
 - [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
+- [A Severe Misalignment of AI in Mathematics](https://mathandai.org)
