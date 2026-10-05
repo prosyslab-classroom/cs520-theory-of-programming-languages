@@ -11,7 +11,5 @@ body:
     attributes:
       label: Detailed Description
       description: "작업의 상세 설명. 한국인은 한국어로 쓰고 영문 번역을 첨부해주세요. Detailed description"
-      value: |
-        ...
     validations:
       required: true
