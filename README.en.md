@@ -138,3 +138,6 @@ The materials for this course were prepared with reference to the courses below.
 - [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
 - [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
 - [A Severe Misalignment of AI in Mathematics](https://mathandai.org)
+
+#### Miscellaneous
+- [Recursion World](https://prosys.kaist.ac.kr/recursion)
