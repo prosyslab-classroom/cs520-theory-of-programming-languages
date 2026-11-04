@@ -99,7 +99,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |8|[Recursion](slides/lecture8.pdf)|TAPL Part IV||
 |9|[Polymorphic Type](slides/lecture9.pdf)|TAPL Part V|HW5. Mini-Lean $F$|
 |10|[Type Operator](slides/lecture10.pdf)|TAPL Part VI|HW6. Mini-Lean $F\omega$|
-|11|Dependent Type|ATAPL Part I||
+|11|[Dependent Type](slides/lecture11.pdf)|ATAPL Part I||
 |12|Calculus of Construction||HW7. Mini-Lean $C$|
 |13|Proof Automation (1)|||
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
