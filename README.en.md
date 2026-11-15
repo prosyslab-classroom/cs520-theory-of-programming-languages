@@ -97,7 +97,7 @@ Please do not easily throw away your precious learning opportunities.
 |9|[Polymorphic Type](slides/lecture9.pdf)|TAPL Part V|HW5. Mini-Lean $F$|
 |10|[Type Operator](slides/lecture10.pdf)|TAPL Part VI|HW6. Mini-Lean $F\omega$|
 |11|[Dependent Type](slides/lecture11.pdf)|ATAPL Part I||
-|12|Calculus of Construction||HW7. Mini-Lean $C$|
+|12|[Calculus of Construction](slides/lecture12.pdf)||HW7. Mini-Lean $C$|
 |13|Proof Automation (1)|||
 |14|Proof Automation (2)||HW8. Agentic Proof Automation|
 |-|Final Exam|||
